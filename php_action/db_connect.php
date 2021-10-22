@@ -1,10 +1,10 @@
 <?php
 //DATABASE CONECTION
 
-$servername = "localhost";
-$username = "root";
-$password = "";
-$db_name = "loja_carros";
+$servername = "servidor_web_caian";
+$username = "caian";
+$password = "31193119";
+$db_name = "Loja_Carros";
 
 $connect = mysqli_connect($servername,$username,$password,$db_name);
 mysqli_set_charset($connect, "utf8");
