@@ -1,7 +1,7 @@
 <?php
 //DATABASE CONECTION
 
-$servername = "servidor_web_caian";
+$servername = "servidor_web_caian1";
 $username = "caian";
 $password = "31193119";
 $db_name = "Loja_Carros";
