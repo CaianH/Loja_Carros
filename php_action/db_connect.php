@@ -1,7 +1,7 @@
 <?php
 //DATABASE CONECTION
 
-$servername = "servidor_web";
+$servername = "service-mariadb-sec";
 $username = "root";
 $password = "root";
 $db_name = "Loja_Carros";
