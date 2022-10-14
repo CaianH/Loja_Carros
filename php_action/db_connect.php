@@ -1,9 +1,9 @@
 <?php
 //DATABASE CONECTION
 
-$servername = "servidor_web_caian1";
-$username = "caian";
-$password = "31193119";
+$servername = "servidor_web";
+$username = "root";
+$password = "root";
 $db_name = "Loja_Carros";
 
 $connect = mysqli_connect($servername,$username,$password,$db_name);
