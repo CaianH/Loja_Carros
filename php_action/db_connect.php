@@ -1,7 +1,7 @@
 <?php
 //DATABASE CONECTION
 
-$servername = "localhost";
+$servername = "172.17.0.3";
 $username = "root";
 $password = "root";
 $db_name = "Loja_Carros";
